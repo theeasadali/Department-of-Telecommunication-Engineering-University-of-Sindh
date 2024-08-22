@@ -1,0 +1,11 @@
+<svg xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsCc="http://creativecommons.org/ns#" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlnsSvg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="390 260 315 175" height="175" width="350" xml:space="preserve" id="svg2" version="1.1">
+    
+    <g transform="matrix(1.3333333,0,0,-1.3333333,0,1440)" id="g10">
+        <g transform="translate(531.1811,833.3881)" id="g38">
+            <path id="path40" style="fill:#0a58ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 0,0 H -65.798 V 42.439 H -86.161 V 0 h -37.078 v 42.439 h -20.363 V 0 h -37.078 v 42.439 h -20.363 V 0 h -37.078 v 8.357 h 28.72 v 42.44 h 37.078 V 8.357 h 20.363 v 42.44 h 37.078 V 8.357 h 20.363 v 42.44 h 37.078 V 8.357 H 0 Z"/>
+        </g>
+        <g transform="translate(531.1811,754.9708)" id="g42">
+            <path id="path44" style="fill:#0a58ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 0,0 H -8.357 V 42.439 H -28.72 V 0 H -65.798 V 42.439 H -86.161 V 0 h -94.519 v 42.439 h -20.363 V 0 h -37.078 v 8.357 h 28.72 v 42.44 h 37.078 V 8.357 h 77.804 v 42.44 h 37.078 V 8.357 h 20.363 v 42.44 H 0 Z"/>
+        </g>
+	</g>
+</svg>
